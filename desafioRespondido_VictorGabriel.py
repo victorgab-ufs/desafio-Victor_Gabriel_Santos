@@ -1,13 +1,9 @@
 numero = int(input('Quantidade de caracteres: '))
 
-
 espaco = ' '
-
-
 caractere = '*'
 contagem = 0
 contagem2 = 3
-
 
 for i in range(1, numero):
   
