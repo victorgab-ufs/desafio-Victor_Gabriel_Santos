@@ -22,7 +22,6 @@ Isso se repetirá infinitamente (teoricamente), pode usar o caracter que quiser 
 # Como participar
 Basta criar um fork desse repositório e modificar seu proprio repositório. Dessa forma poderemos acompanhar vocês
 
-####################################################################
 
 numero = int(input('Quantidade de caracteres: '))
 
