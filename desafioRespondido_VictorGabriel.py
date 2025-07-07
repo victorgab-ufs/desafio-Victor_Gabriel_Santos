@@ -1,6 +1,7 @@
 numero = int(input('Quantidade de caracteres: '))
 
 espaco = ' '
+#para igualar ao do desafio, basta substituir "str(contagem) e str(contagem2)" por caractere
 caractere = '*'
 contagem = 0
 contagem2 = 3
